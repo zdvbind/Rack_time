@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'processing_request'
+require_relative 'time_formatter'
 
 class App
   def call(env)
